@@ -1,1 +1,1 @@
-Hello there!Why, hello! -- Says Luc
+Hello there!"Why, hello!", says Luc.
